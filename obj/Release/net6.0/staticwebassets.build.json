@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "x+z3jvlodyf3ugwLd5hSPIYBTl4Jg5wF0X4bnMArj/8=",
+  "Source": "Atv-Senai-LHPets",
+  "BasePath": "_content/Atv-Senai-LHPets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atv-Senai-LHPets\\wwwroot",
+      "Source": "Atv-Senai-LHPets",
+      "ContentRoot": "C:\\Users\\João Pedro\\Desktop\\Atv-Senai-LHPets\\wwwroot\\",
+      "BasePath": "_content/Atv-Senai-LHPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\João Pedro\\Desktop\\Atv-Senai-LHPets\\wwwroot\\index.html",
+      "SourceId": "Atv-Senai-LHPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\João Pedro\\Desktop\\Atv-Senai-LHPets\\wwwroot\\",
+      "BasePath": "_content/Atv-Senai-LHPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

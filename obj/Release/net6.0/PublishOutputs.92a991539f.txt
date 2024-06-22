@@ -1,0 +1,13 @@
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\Atv-Senai-LHPets.exe
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\appsettings.json
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\Atv-Senai-LHPets.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\Atv-Senai-LHPets.deps.json
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\Atv-Senai-LHPets.runtimeconfig.json
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\Atv-Senai-LHPets.pdb
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Pedro\Desktop\Atv-Senai-LHPets\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
